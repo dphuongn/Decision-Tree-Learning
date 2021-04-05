@@ -7,7 +7,7 @@ We will use the following data set from the UC Irvine Machine Learning Repositor
 
 * Congressional Voting Records Data Set at
 (https://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records).
-Note the dataset has missing values.
+Note that the dataset has missing values.
 
 ## What we do
 
