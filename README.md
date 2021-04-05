@@ -45,10 +45,10 @@ Additional packages used:
 
 * Download **house-vote-84.data** file into the working folder.
 
-* Navigate Mac terminal (or Window prompt) to the directory and run lab3.py to get csv files to use with Weka.:
-```
-$ python lab3.py
-```
+* Navigate Mac terminal (or Window prompt) to the directory and run *lab3.py* to get csv files to use with Weka:
+    ```
+    $ python lab3.py
+    ```
 
 * Part 1 and 2: Use **house-vote-84.csv** as input (training set) and use 5-fold cross validation.
 
